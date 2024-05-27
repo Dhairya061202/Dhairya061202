@@ -1,7 +1,7 @@
 # Hi there, I'm Dhairya Pandya 👋
 
 ![Profile Banner](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-)
+
 
 I'm a passionate MERN Stack Developer with a love for crafting elegant and efficient web applications. Here's a little more about me:
 
@@ -55,16 +55,9 @@ A personal portfolio website made using React is a dynamic, responsive, and modu
 ![Contact](https://your-image-url.com/contact.png)
 
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dhairya-pandya-2956a422a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Dhairya061202" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
