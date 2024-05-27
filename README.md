@@ -1,6 +1,6 @@
 # Hi there, I'm [Dhairya Pandya] 👋
 
-![Profile Banner](https://res.cloudinary.com/practicaldev/image/fetch/s--FSLoDXWo--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/du2l1oct41gn9b9tv1sb.jpg)
+![Profile Banner](https://tinyurl.com/github-banner)
 
 I'm a passionate MERN Stack Developer with a love for crafting elegant and efficient web applications. Here's a little more about me:
 
