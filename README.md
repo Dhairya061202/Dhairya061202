@@ -1,6 +1,7 @@
 # Hi there, I'm [Dhairya Pandya] 👋
 
-![Profile Banner](https://tinyurl.com/github-banner)
+![Profile Banner](![image](https://github.com/Dhairya061202/Dhairya061202/assets/119549418/1f98ab22-b49e-40ed-85a4-04c26aa54fc2)
+)
 
 I'm a passionate MERN Stack Developer with a love for crafting elegant and efficient web applications. Here's a little more about me:
 
