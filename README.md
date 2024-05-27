@@ -1,6 +1,6 @@
-# Hi there, I'm [Dhairya Pandya] 👋
+# Hi there, I'm Dhairya Pandya 👋
 
-![Profile Banner](![image](https://github.com/Dhairya061202/Dhairya061202/assets/119549418/1f98ab22-b49e-40ed-85a4-04c26aa54fc2)
+![Profile Banner](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 )
 
 I'm a passionate MERN Stack Developer with a love for crafting elegant and efficient web applications. Here's a little more about me:
@@ -13,7 +13,8 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant and effic
 - **Other Languages:** Java
 
 ![HTML]()
-![CSS](https://your-image-url.com/skills.png)
+![CSS]()
+ 
 ![JAVASCRIPT](https://your-image-url.com/skills.png)
 ![BOOTSTRAP](https://your-image-url.com/skills.png)
 ![TAILWIND ](https://your-image-url.com/skills.png)
@@ -25,44 +26,31 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant and effic
 
 ## 📚 Projects
 
-### Project 1: Awesome App
-A brief description of what this project is about.
+### Project 1: personal portfolio
+A personal portfolio website made using React is a dynamic, responsive, and modular web application that showcases an individual's skills, projects, and personal information. It features a home page with a professional introduction, an about section detailing the individual's background and experience, a skills section with categorized technical and soft skills, a project showcase with detailed descriptions and links, and a contact form for easy communication. React's component-based architecture, state management, and routing capabilities enable smooth navigation, efficient performance, and seamless updates without page reloads.
 
-![Project 1](https://your-image-url.com/project1.png)
 
-[View Project](https://github.com/yourusername/project1)
 
-### Project 2: Another Cool App
-A brief description of what this project is about.
+[View Project](https://github.com/Dhairya061202/PortFolio)
 
-![Project 2](https://your-image-url.com/project2.png)
+### Project 2: Cinemo | online movies imdb ratings
+🎬 Welcome to our online movie IMDb rating website! Here, you can explore IMDb ratings for all the latest movies. 🌟 Built with HTML, CSS, JavaScript, and React.js, our platform offers a seamless experience for movie enthusiasts. 💻 HTML provides the structure, CSS adds style, JavaScript brings interactivity, and React.js ensures efficiency with reusable components and state management. 🎥 Dive in and discover the IMDb ratings of your favorite movies, all in one place!
 
-[View Project](https://github.com/yourusername/project2)
 
-## 🚀 Experience
+[View Project](https://github.com/Dhairya061202/MObile-Dekho)
 
-- **Company A**
-  - Role: Full Stack Developer
-  - Duration: Jan 2022 - Present
-  - Responsibilities:
-    - Developed and maintained web applications using the MERN stack.
-    - Collaborated with the design team to implement user-friendly interfaces.
-    - Optimized applications for maximum speed and scalability.
+### Project 3: Mobile-Dekho | online mobile shop
+📱 Welcome to our website, where you can explore a diverse array of mobile phones from various companies. But that's not all! 🖥️ You can also browse and purchase TVs, laptops, audio devices, and more. 🛒 Built with HTML, CSS, JavaScript, and React.js, our platform offers a dynamic and user-friendly experience. 💻 HTML structures our web pages, CSS adds visual appeal, JavaScript brings interactivity, and React.js enhances efficiency with reusable components and state management. 🌟 With responsive design, our website ensures seamless access across different devices, making it easy for you to shop anytime, anywhere. 💼 So dive in and discover your next electronic companion with us!
 
-- **Company B**
-  - Role: Backend Developer
-  - Duration: Jun 2020 - Dec 2021
-  - Responsibilities:
-    - Built and maintained RESTful APIs using Node.js and Express.
-    - Integrated MongoDB for data storage solutions.
-    - Ensured secure and efficient server-side code.
+
+[View Project](https://github.com/Dhairya061202/MObile-Dekho)
+
 
 ## 📫 Contact Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- **Email:** [your-email@example.com](dhairyapandya00@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dhairya-pandya-2956a422a/)
+- **Portfolio:** [yourportfolio.com](https://github.com/Dhairya061202/PortFolio)
 
 ![Contact](https://your-image-url.com/contact.png)
 
