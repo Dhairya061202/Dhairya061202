@@ -48,17 +48,12 @@ A personal portfolio website made using React is a dynamic, responsive, and modu
 
 ## 📫 Contact Me
 
-- **Email:** [your-email@example.com](dhairyapandya00@gmail.com)
+- **Email:** [MY_EMAIL](dhairyapandya00@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dhairya-pandya-2956a422a/)
-- **Portfolio:** [yourportfolio.com](https://github.com/Dhairya061202/PortFolio)
+- **Portfolio:** [MYportfolio.com](https://dp-port-folio.netlify.app/)
 
 ![Contact](https://your-image-url.com/contact.png)
 
-## 📝 Blog Posts
-
-- [How to Build a Full Stack Application with the MERN Stack](https://yourblog.com/post1)
-- [Understanding Redux for State Management in React](https://yourblog.com/post2)
-- [JavaScript ES6 Features You Should Know](https://yourblog.com/post3)
 
 ## 📈 GitHub Stats
 
