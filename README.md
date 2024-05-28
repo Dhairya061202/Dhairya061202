@@ -12,17 +12,8 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant and effic
 - **Database:** MongoDB
 - **Other Languages:** Java
 
-![HTML]()
-![CSS]()
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc98If9c40Iaa4IQRmYouXGk1LpvwxJTMOKg&s)
  
-![JAVASCRIPT](https://your-image-url.com/skills.png)
-![BOOTSTRAP](https://your-image-url.com/skills.png)
-![TAILWIND ](https://your-image-url.com/skills.png)
-![REACT](https://your-image-url.com/skills.png)
-![NODE](https://your-image-url.com/skills.png)
-![EXPRESS](https://your-image-url.com/skills.png)
-![MONGODB](https://your-image-url.com/skills.png)
-![REDUX](https://your-image-url.com/skills.png)
 
 ## 📚 Projects
 
@@ -49,10 +40,10 @@ A personal portfolio website made using React is a dynamic, responsive, and modu
 ## 📫 Contact Me
 
 - **Email:** [MY_EMAIL](dhairyapandya00@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dhairya-pandya-2956a422a/)
-- **Portfolio:** [MYportfolio.com](https://dp-port-folio.netlify.app/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/dhairya-pandya-2956a422a/)
+- **Portfolio:** [Myportfolio.com](https://dp-port-folio.netlify.app/)
 
-![Contact](https://your-image-url.com/contact.png)
+
 
 
 ## 🔗 Let's Connect!
