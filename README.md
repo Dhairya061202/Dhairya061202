@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhairya pandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairya pandya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhairya-pandya-2956a422a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairya-pandya-2956a422a/" height="30" width="40" /></a>
 <a href="https://instagram.com/dhairyapandya_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairyapandya_02" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhairyapandya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhairyapandya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhairya061202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhairya061202" height="30" width="40" /></a>
